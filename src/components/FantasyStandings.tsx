@@ -4,7 +4,7 @@ import DivisionTable from "./DivisionTable";
 const FantasyStandings = () => {
   const names = {
     "mainTitle": "Fourth and Forever",
-    "subTitle": "Season standings"
+    "subTitle": "Season standings - Placeholders will be updated"
   }
   
   // Theme configurations for each division
@@ -86,7 +86,7 @@ const FantasyStandings = () => {
             {names["mainTitle"]}
           </h1>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold mb-4 bg-gradient-subtitle bg-clip-text text-transparent">
-            {names["subTitle"]} - Placeholders will be updated
+            {names["subTitle"]}
           </h2>
           <div className="w-24 h-1 bg-primary mx-auto rounded-full"></div>
         </div>
