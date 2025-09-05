@@ -4,7 +4,7 @@ import DivisionTable from "./DivisionTable";
 const FantasyStandings = () => {
   const names = {
     "mainTitle": "Fourth and Forever",
-    "subTitle": "Season standings - Placeholders will be updated"
+    "subTitle": "Season standings"
   }
   
   // Theme configurations for each division
@@ -42,17 +42,17 @@ const FantasyStandings = () => {
       division1: {
         name: "NorthEast",
         teams: [
-          { rank: 1, name: "The Crushers", divisionRecord: "4-1", conferenceRecord: "6-3", overallRecord: "8-3", pointsFor: 1247, icon: "photo-1582562124811-c09040d0a901" },
-          { rank: 2, name: "Gridiron Gods", divisionRecord: "3-2", conferenceRecord: "5-4", overallRecord: "7-4", pointsFor: 1189, icon: "photo-1618160702438-9b02ab6515c9" },
-          { rank: 3, name: "End Zone Elite", divisionRecord: "1-4", conferenceRecord: "2-7", overallRecord: "3-8", pointsFor: 1034, icon: "photo-1466721591366-2d5fba72006d" }
+          { rank: 1, name: "BigSwagooo713", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" },
+          { rank: 2, name: "Touchdown Syndrome", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" },
+          { rank: 3, name: "ctottinger", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1466721591366-2d5fba72006d" }
         ]
       },
       division2: {
         name: "NorthWest", 
         teams: [
-          { rank: 1, name: "Thunder Bolts", divisionRecord: "5-0", conferenceRecord: "7-2", overallRecord: "9-2", pointsFor: 1298, icon: "photo-1535268647677-300dbf3d78d1" },
-          { rank: 2, name: "Pigskin Pro", divisionRecord: "2-3", conferenceRecord: "4-5", overallRecord: "5-6", pointsFor: 1156, icon: "photo-1452960962994-acf4fd70b632" },
-          { rank: 3, name: "Touchdown Titans", divisionRecord: "1-4", conferenceRecord: "3-6", overallRecord: "4-7", pointsFor: 1089, icon: "photo-1582562124811-c09040d0a901" }
+          { rank: 1, name: "BigRedAlec", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1535268647677-300dbf3d78d1" },
+          { rank: 2, name: "1st & Won", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1452960962994-acf4fd70b632" },
+          { rank: 3, name: "YungChepe13", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" }
         ]
       }
     },
@@ -61,17 +61,17 @@ const FantasyStandings = () => {
       division1: {
         name: "SouthEast",
         teams: [
-          { rank: 1, name: "Blitz Brigade", divisionRecord: "4-1", conferenceRecord: "6-3", overallRecord: "8-3", pointsFor: 1223, icon: "photo-1618160702438-9b02ab6515c9" },
-          { rank: 2, name: "Field Generals", divisionRecord: "3-2", conferenceRecord: "5-4", overallRecord: "6-5", pointsFor: 1178, icon: "photo-1466721591366-2d5fba72006d" },
-          { rank: 3, name: "Pocket Passers", divisionRecord: "2-3", conferenceRecord: "3-6", overallRecord: "4-7", pointsFor: 1067, icon: "photo-1535268647677-300dbf3d78d1" }
+          { rank: 1, name: "Call me maye-be", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" },
+          { rank: 2, name: "The Bo Lievers", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1466721591366-2d5fba72006d" },
+          { rank: 3, name: "$uperCam & Smittys 1ceBox", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1535268647677-300dbf3d78d1" }
         ]
       },
       division2: {
         name: "SouthWest",
         teams: [
-          { rank: 1, name: "Red Zone Raiders", divisionRecord: "4-1", conferenceRecord: "7-2", overallRecord: "9-2", pointsFor: 1334, icon: "photo-1452960962994-acf4fd70b632" },
-          { rank: 2, name: "Fourth & Goal", divisionRecord: "3-2", conferenceRecord: "6-3", overallRecord: "7-4", pointsFor: 1201, icon: "photo-1582562124811-c09040d0a901" },
-          { rank: 3, name: "Hail Mary Heroes", divisionRecord: "0-5", conferenceRecord: "1-8", overallRecord: "2-9", pointsFor: 987, icon: "photo-1618160702438-9b02ab6515c9" }
+          { rank: 1, name: "knowsball8", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1452960962994-acf4fd70b632" },
+          { rank: 2, name: "JockstrapJorker", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" },
+          { rank: 3, name: "8igDonDada", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" }
         ]
       }
     }

@@ -41,7 +41,7 @@ const DivisionTable = ({ divisionName, teams, theme }: DivisionTableProps) => {
             <table className="w-full text-sm">
               <thead>
                 <tr className="border-b border-border/30">
-                  <th className="w-8 text-left py-2 px-0.5 text-muted-foreground">#</th>
+                  <th className="w-8 text-left py-2 px-0.2 text-muted-foreground">#</th>
                   <th className="text-left py-2 px-1 text-muted-foreground">Team</th>
                   <th className={`w-16 text-center py-2 px-1 ${theme.primary} font-semibold`}>Div</th>
                   <th className="w-20 text-center py-2 px-1 text-muted-foreground hidden sm:table-cell">Conf</th>
