@@ -42,17 +42,17 @@ const FantasyStandings = () => {
       division1: {
         name: "NorthEast",
         teams: [
-          { rank: 1, name: "BigSwagooo713", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/uploads/2e7f665ae8fdd452701ddcc5affb4026.jpg" },
-          { rank: 2, name: "Touchdown Syndrome", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/51385ba57cd089261f6de9ce483b8716" },
+          { rank: 1, name: "BigSwagooo713", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" },
+          { rank: 2, name: "Touchdown Syndrome", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" },
           { rank: 3, name: "ctottinger", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1466721591366-2d5fba72006d" }
         ]
       },
       division2: {
         name: "NorthWest", 
         teams: [
-          { rank: 1, name: "BigRedAlec", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/2e48853a410664afc428e1d857457988" },
-          { rank: 2, name: "1st & Won", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/905dcd140bd1468f9d2ec439fb7915c4" },
-          { rank: 3, name: "YungChepe13", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/dc3246268ec076fa6cd93686e3887757" }
+          { rank: 1, name: "BigRedAlec", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1535268647677-300dbf3d78d1" },
+          { rank: 2, name: "1st & Won", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1452960962994-acf4fd70b632" },
+          { rank: 3, name: "YungChepe13", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" }
         ]
       }
     },
@@ -61,17 +61,17 @@ const FantasyStandings = () => {
       division1: {
         name: "SouthEast",
         teams: [
-          { rank: 1, name: "Call me maye-be", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/565600b9d8ed377ca605ac45b9d2875d" },
-          { rank: 2, name: "The Bo Lievers", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/8eb8f8bf999945d523f2c4033f70473e" },
-          { rank: 3, name: "$uperCam & Smittys 1ceBox", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/uploads/323fd1cc64d33310474a6c0fec91a13b.jpg" }
+          { rank: 1, name: "Call me maye-be", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" },
+          { rank: 2, name: "The Bo Lievers", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1466721591366-2d5fba72006d" },
+          { rank: 3, name: "$uperCam & Smittys 1ceBox", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1535268647677-300dbf3d78d1" }
         ]
       },
       division2: {
         name: "SouthWest",
         teams: [
-          { rank: 1, name: "knowsball8", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/7572250c2fb084c434fed0e82229e183" },
-          { rank: 2, name: "JockstrapJorker", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/5b4b572c2c502fc1d9a2fae954c34153" },
-          { rank: 3, name: "8igDonDada", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "https://sleepercdn.com/avatars/thumbs/795b9fbb3fed8225b992cb04e2dba54a" }
+          { rank: 1, name: "knowsball8", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1452960962994-acf4fd70b632" },
+          { rank: 2, name: "JockstrapJorker", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1582562124811-c09040d0a901" },
+          { rank: 3, name: "8igDonDada", divisionRecord: "0-0", conferenceRecord: "0-0", overallRecord: "0-0", pointsFor: 0, icon: "photo-1618160702438-9b02ab6515c9" }
         ]
       }
     }
