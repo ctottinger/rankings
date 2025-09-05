@@ -108,7 +108,7 @@ const DivisionTable = ({ divisionName, teams, theme }: DivisionTableProps) => {
               <div key={team.rank} className="flex justify-between text-xs text-muted-foreground border-b border-border/10 pb-1">
                 <span className="flex items-center gap-2">
                   <img 
-                    src={`https://images.unsplash.com/${team.icon}?w=24&h=24&fit=crop&crop=face`}
+                    src={team.icon}
                     alt={team.name}
                     className={`w-4 h-4 rounded-full object-cover ${
                       team.rank === 1 ? 'border border-yellow-400' : ''
