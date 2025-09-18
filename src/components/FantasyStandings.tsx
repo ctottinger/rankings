@@ -9,7 +9,7 @@ const FantasyStandings = () => {
 
     const names = {
         "mainTitle": "Fourth and Forever",
-        "subTitle": "Week 2 standings"
+        "subTitle": "Week 3 standings"
     }
 
     const divisionThemes = {
