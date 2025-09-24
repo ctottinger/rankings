@@ -1,7 +1,7 @@
 import DivisionTable from "./DivisionTable";
 
 /* CHANGE TO REFLECT UPDATED STANDINGS BY WEEK */
-import {WeekTwoStandings as CurrentStandings} from "../standings/WeekTwo.tsx";
+import {WeekTwoStandings as CurrentStandings} from "../standings/WeekFour.tsx";
 
 const FantasyStandings = () => {
 
@@ -9,7 +9,7 @@ const FantasyStandings = () => {
 
     const names = {
         "mainTitle": "Fourth and Forever",
-        "subTitle": "Week 3 standings"
+        "subTitle": "Week 4 standings"
     }
 
     const divisionThemes = {
