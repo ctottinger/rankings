@@ -1,7 +1,7 @@
 import DivisionTable from "./DivisionTable";
 
 /* CHANGE TO REFLECT UPDATED STANDINGS BY WEEK */
-import {WeekTwoStandings as CurrentStandings} from "../standings/WeekFour.tsx";
+import {WeekSevenStandings as CurrentStandings} from "../standings/WeekSeven.tsx";
 
 const FantasyStandings = () => {
 
@@ -9,7 +9,7 @@ const FantasyStandings = () => {
 
     const names = {
         "mainTitle": "Fourth and Forever",
-        "subTitle": "Week 4 standings"
+        "subTitle": "Week 7 standings"
     }
 
     const divisionThemes = {
@@ -99,7 +99,7 @@ const FantasyStandings = () => {
 
                 <div className="mt-12 text-center">
                     <p className="text-muted-foreground text-sm">
-                        Standings are based on divisional records • Updated weekly
+                        Standings are based on divisional record → conference record → overall record → PF • Updated weekly
                     </p>
                 </div>
             </div>
