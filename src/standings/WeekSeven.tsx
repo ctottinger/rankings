@@ -9,8 +9,8 @@ export const WeekSevenStandings = {
                     name: "BigSwagooo713",
                     divisionRecord: "1-1",
                     conferenceRecord: "2-1",
-                    overallRecord: "6-2",
-                    pointsFor: 1015.02,
+                    overallRecord: "7-2",
+                    pointsFor: 1154.28,
                     icon: "photo-1582562124811-c09040d0a901"
                 },
                 {
@@ -18,8 +18,8 @@ export const WeekSevenStandings = {
                     name: "Touchdown Syndrome",
                     divisionRecord: "0-2",
                     conferenceRecord: "0-3",
-                    overallRecord: "2-6",
-                    pointsFor: 943.32,
+                    overallRecord: "2-7",
+                    pointsFor: 1014.72,
                     icon: "photo-1618160702438-9b02ab6515c9"
                 },
                 {
@@ -27,8 +27,8 @@ export const WeekSevenStandings = {
                     name: "ctottinger",
                     divisionRecord: "2-0",
                     conferenceRecord: "3-0",
-                    overallRecord: "6-2",
-                    pointsFor: 1072.36,
+                    overallRecord: "7-2",
+                    pointsFor: 1229.02,
                     icon: "photo-1466721591366-2d5fba72006d"
                 }
             ]
@@ -41,8 +41,8 @@ export const WeekSevenStandings = {
                     name: "BigRedAlec",
                     divisionRecord: "1-1",
                     conferenceRecord: "2-2",
-                    overallRecord: "4-4",
-                    pointsFor: 1047.92,
+                    overallRecord: "4-5",
+                    pointsFor: 1183.30,
                     icon: "photo-1535268647677-300dbf3d78d1"
                 },
                 {
@@ -50,8 +50,8 @@ export const WeekSevenStandings = {
                     name: "1st & Won",
                     divisionRecord: "1-1",
                     conferenceRecord: "1-2",
-                    overallRecord: "3-5",
-                    pointsFor: 944.94,
+                    overallRecord: "4-5",
+                    pointsFor: 1074.20,
                     icon: "photo-1452960962994-acf4fd70b632"
                 },
                 {
@@ -59,8 +59,8 @@ export const WeekSevenStandings = {
                     name: "Jack Goff", // YungChepe13
                     divisionRecord: "1-1",
                     conferenceRecord: "1-2",
-                    overallRecord: "3-5",
-                    pointsFor: 910.58,
+                    overallRecord: "4-5",
+                    pointsFor: 1047.14,
                     icon: "photo-1582562124811-c09040d0a901"
                 }
             ]
@@ -77,7 +77,7 @@ export const WeekSevenStandings = {
                     divisionRecord: "1-1",
                     conferenceRecord: "2-1",
                     overallRecord: "5-3",
-                    pointsFor: 1146.62,
+                    pointsFor: 1316.28,
                     icon: "photo-1618160702438-9b02ab6515c9"
                 },
                 {
@@ -85,8 +85,8 @@ export const WeekSevenStandings = {
                     name: "Creatine Caucasians", // Phenomenal10
                     divisionRecord: "1-1",
                     conferenceRecord: "3-0",
-                    overallRecord: "7-1",
-                    pointsFor: 1146.88,
+                    overallRecord: "7-2",
+                    pointsFor: 1261.74,
                     icon: "photo-1466721591366-2d5fba72006d"
                 },
                 {
@@ -94,8 +94,8 @@ export const WeekSevenStandings = {
                     name: "$uperCam & Smittys 1ceBox", // jmitchell979
                     divisionRecord: "1-1",
                     conferenceRecord: "2-1",
-                    overallRecord: "4-4",
-                    pointsFor: 1080.54,
+                    overallRecord: "4-5",
+                    pointsFor: 1202.66,
                     icon: "photo-1535268647677-300dbf3d78d1"
                 }
             ]
@@ -108,8 +108,8 @@ export const WeekSevenStandings = {
                     name: "knowsballs",
                     divisionRecord: "1-1",
                     conferenceRecord: "0-3",
-                    overallRecord: "2-6",
-                    pointsFor: 904.84,
+                    overallRecord: "3-6",
+                    pointsFor: 1000.74,
                     icon: "photo-1452960962994-acf4fd70b632"
                 },
                 {
@@ -117,8 +117,8 @@ export const WeekSevenStandings = {
                     name: "JockstrapJorker",
                     divisionRecord: "2-0",
                     conferenceRecord: "1-2",
-                    overallRecord: "4-4",
-                    pointsFor: 954.44,
+                    overallRecord: "4-5",
+                    pointsFor: 1070.4,
                     icon: "photo-1582562124811-c09040d0a901"
                 },
                 {
@@ -126,8 +126,8 @@ export const WeekSevenStandings = {
                     name: "8igDonDada",
                     divisionRecord: "0-2",
                     conferenceRecord: "1-2",
-                    overallRecord: "2-6",
-                    pointsFor: 847.9,
+                    overallRecord: "2-7",
+                    pointsFor: 965.02,
                     icon: "photo-1618160702438-9b02ab6515c9"
                 }
             ]
